@@ -80,3 +80,8 @@ C:\Users\Felipe\source\repos\Pizzaria_MVC\Pizzaria_MVC\obj\Debug\net5.0\Razor\Vi
 C:\Users\Felipe\source\repos\Pizzaria_MVC\Pizzaria_MVC\obj\Debug\net5.0\Razor\Views\Tamanhos\Deletar.cshtml.g.cs
 C:\Users\Felipe\source\repos\Pizzaria_MVC\Pizzaria_MVC\obj\Debug\net5.0\Razor\Views\Tamanhos\Detalhes.cshtml.g.cs
 C:\Users\Felipe\source\repos\Pizzaria_MVC\Pizzaria_MVC\obj\Debug\net5.0\Razor\Views\Tamanhos\Index.cshtml.g.cs
+C:\Users\Felipe\source\repos\Pizzaria_MVC\Pizzaria_MVC\obj\Debug\net5.0\Razor\Views\Pizzas\Atualizar.cshtml.g.cs
+C:\Users\Felipe\source\repos\Pizzaria_MVC\Pizzaria_MVC\obj\Debug\net5.0\Razor\Views\Pizzas\Criar.cshtml.g.cs
+C:\Users\Felipe\source\repos\Pizzaria_MVC\Pizzaria_MVC\obj\Debug\net5.0\Razor\Views\Pizzas\Deletar.cshtml.g.cs
+C:\Users\Felipe\source\repos\Pizzaria_MVC\Pizzaria_MVC\obj\Debug\net5.0\Razor\Views\Pizzas\Detalhes.cshtml.g.cs
+C:\Users\Felipe\source\repos\Pizzaria_MVC\Pizzaria_MVC\obj\Debug\net5.0\Razor\Views\Pizzas\Index.cshtml.g.cs
