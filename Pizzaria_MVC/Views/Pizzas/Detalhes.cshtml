@@ -27,7 +27,7 @@
                     else
                     {
                         <div class="carousel-item">
-                            <a asp-controller="Filmes" asp-action="Detalhes" asp-route-id="@saborPizza.PizzaId">
+                            <a asp-controller="Pizzas" asp-action="Detalhes" asp-route-id="@saborPizza.PizzaId">
                                 <img src="@saborPizza.Pizza.FotoURL" class="d-block w-100">
                             </a>
                         </div>
@@ -45,7 +45,7 @@
         </div>
 
     </div>
-    <a class="btn btn-outline-secondary" asp-action="Index">Listar Sabores</a>
+    <a class="btn btn-outline-secondary" asp-action="Index">Listar de Igredientes</a>
 }
 else
 {

@@ -106,7 +106,7 @@ namespace Pizzaria_MVC.Controllers
             _context.Update(result);
             _context.SaveChanges();
 
-            return RedirectToAction(nameof(Detalhes), result);
+            return RedirectToAction(nameof(Index), result);
         }
 
         public IActionResult Deletar(int id)
