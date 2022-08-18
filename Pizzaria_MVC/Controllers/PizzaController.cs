@@ -1,13 +1,12 @@
-﻿using Pizzaria_MVC.Data;
+﻿using AtividadePizzaria.Data;
+using Pizzaria_MVC.Models;
+using Pizzaria_MVC.Models.ViewModels.RequestDTO;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using Pizzaria_MVC.Models.ViewModels.RequestDTO;
-using Pizzaria_MVC.Models;
 using System.Linq;
-using AtividadePizzaria.Data;
 
-namespace AtividadePizzaria.Controllers
+namespace Pizzaria_MVC.Controllers
 {
     public class PizzasController : Controller
     {

@@ -173,3 +173,4 @@ C:\Users\felipe.tmaricota\source\repos\PizzariaMVC\Pizzaria_MVC\obj\Debug\net5.0
 C:\Users\felipe.tmaricota\source\repos\PizzariaMVC\Pizzaria_MVC\obj\Debug\net5.0\Pizzaria_MVC.Views.pdb
 C:\Users\felipe.tmaricota\source\repos\PizzariaMVC\Pizzaria_MVC\obj\Debug\net5.0\Pizzaria_MVC.csproj.CopyComplete
 C:\Users\felipe.tmaricota\source\repos\PizzariaMVC\Pizzaria_MVC\obj\Debug\net5.0\Pizzaria_MVC.genruntimeconfig.cache
+C:\Users\Felipe\source\repos\Pizzaria_MVC\Pizzaria_MVC\bin\Debug\net5.0\Pizzaria_MVC.StaticWebAssets.xml
