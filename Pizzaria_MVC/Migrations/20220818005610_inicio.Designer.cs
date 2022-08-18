@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Pizzaria_MVC.Migrations
 {
     [DbContext(typeof(PizzariaDbContext))]
-    [Migration("20220817054324_inicio")]
+    [Migration("20220818005610_inicio")]
     partial class inicio
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

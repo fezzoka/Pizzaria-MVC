@@ -28,7 +28,7 @@ namespace Pizzaria_MVC.Models
         public DateTime DataCadastro { get; set; }
         public DateTime DataAlteracao { get; set; }
 
-        [Key]
+        
         public int TamanhoId { get; set; }
         public Tamanho Tamanho { get; set; }
 

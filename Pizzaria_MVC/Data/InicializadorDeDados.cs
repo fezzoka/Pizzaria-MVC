@@ -1,10 +1,11 @@
 ﻿
-using AtividadePizzaria.Data;
+using Pizzaria_MVC.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Pizzaria_MVC.Models;
 using System.Collections.Generic;
 using System.Linq;
+using AtividadePizzaria.Data;
 
 namespace Pizzaria_MVC.Data
 {
@@ -51,7 +52,7 @@ namespace Pizzaria_MVC.Data
                         new Pizza("Cinco Queijos",40,"https://static.phdvasia.com/br/menu/single/desktop_thumbnail_c99089cc-e6ab-4e27-8c9e-322942f31755.jpg",2),
                         new Pizza("Pepperoni",50,"https://static.phdvasia.com/br/menu/single/desktop_thumbnail_b2e4adc6-a1ff-43dd-99f1-d4009a38bd71.jpg",3)
                     });
-                    context.SaveChanges();
+                   context.SaveChanges();
                 }
 
                 if (!context.PizzasSabores.Any())
@@ -65,7 +66,7 @@ namespace Pizzaria_MVC.Data
                         new PizzaSabor(2,1),
                         new PizzaSabor(3,1)
                     });
-                    context.SaveChanges();
+                 //   context.SaveChanges();
                 }
             }
         }

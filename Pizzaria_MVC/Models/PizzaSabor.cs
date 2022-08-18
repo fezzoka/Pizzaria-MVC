@@ -11,11 +11,11 @@ namespace Pizzaria_MVC.Models
             SaborId = saborId;
         }
 
-        [Key]
+        
         public int PizzaId { get; set; }
         public Pizza Pizza { get; set; }
 
-        [Key]
+        
         public int SaborId { get; set; }
         public Sabor Sabor { get; set; }
 
