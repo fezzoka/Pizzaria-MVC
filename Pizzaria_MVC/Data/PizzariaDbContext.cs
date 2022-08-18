@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Pizzaria_MVC.Models;
 
-namespace AtividadePizzaria.Data
+namespace Pizzaria_MVC.Data
 {
     public class PizzariaDbContext : DbContext
     {

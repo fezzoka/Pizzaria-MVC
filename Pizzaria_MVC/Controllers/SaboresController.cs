@@ -3,11 +3,7 @@ using Pizzaria_MVC.Models.ViewModels.RequestDTO;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Pizzaria_MVC.Models;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
-using AtividadePizzaria.Data;
 
 namespace Pizzaria_MVC.Controllers
 {

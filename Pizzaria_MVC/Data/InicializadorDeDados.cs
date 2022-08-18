@@ -5,7 +5,6 @@ using Microsoft.Extensions.DependencyInjection;
 using Pizzaria_MVC.Models;
 using System.Collections.Generic;
 using System.Linq;
-using AtividadePizzaria.Data;
 
 namespace Pizzaria_MVC.Data
 {
@@ -66,7 +65,7 @@ namespace Pizzaria_MVC.Data
                         new PizzaSabor(2,1),
                         new PizzaSabor(3,1)
                     });
-                 //   context.SaveChanges();
+                   context.SaveChanges();
                 }
             }
         }

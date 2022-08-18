@@ -1,10 +1,10 @@
-﻿using AtividadePizzaria.Data;
-using Pizzaria_MVC.Models;
+﻿using Pizzaria_MVC.Models;
 using Pizzaria_MVC.Models.ViewModels.RequestDTO;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using System.Linq;
+using Pizzaria_MVC.Data;
 
 namespace Pizzaria_MVC.Controllers
 {
