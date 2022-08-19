@@ -11,8 +11,8 @@
 
 @if (@Model.PizzasSabores.Count > 0)
 {
-    <div class="row">
-        <div id="carouselExampleControls" class="carousel slide col-md-4 offset-md-4" data-ride="carousel">
+    <div class="container">
+        <div id="carouselExampleControls" class="carousel slide col-md-6 offset-md-3" data-ride="carousel">
             <div class="carousel-inner">
                 @foreach (var saborPizza in @Model.PizzasSabores)
                 {
